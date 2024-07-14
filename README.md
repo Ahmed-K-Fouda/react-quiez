@@ -92,3 +92,4 @@ This is a React-based quiz application designed to test users' knowledge of Reac
 Contributions are welcome! Please fork the repository and submit a pull request for any changes.
 
 ## live demo
+https://react-quiez-app.netlify.app
